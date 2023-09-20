@@ -1,0 +1,4 @@
+com\kubernetes\springkubernates\controller\StudentController.class
+com\kubernetes\springkubernates\Student.class
+com\kubernetes\springkubernates\repository\StudentRepository.class
+com\kubernetes\springkubernates\SpringkubernatesApplication.class
